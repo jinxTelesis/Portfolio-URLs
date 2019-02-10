@@ -12,7 +12,6 @@
 
 [Country DB ](https://github.com/jinxTelesis/CountryDBV5)
 
-[Java JDBC (old)](https://github.com/jinxTelesis/JavaSQLStorage)
 
 
 
